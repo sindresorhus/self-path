@@ -1,0 +1,34 @@
+{
+  "name": "self-path",
+  "version": "0.0.0",
+  "description": "Get the path to this package - Useful for testing",
+  "license": "MIT",
+  "repository": "sindresorhus/self-path",
+  "author": {
+    "name": "Sindre Sorhus",
+    "email": "sindresorhus@gmail.com",
+    "url": "sindresorhus.com"
+  },
+  "bin": "cli.js",
+  "engines": {
+    "node": ">=4"
+  },
+  "scripts": {
+    "test": "xo && ava"
+  },
+  "files": [
+    "cli.js"
+  ],
+  "keywords": [
+    "cli-app",
+    "cli",
+    "path",
+    "testing",
+    "assert"
+  ],
+  "devDependencies": {
+    "ava": "*",
+    "execa": "^0.6.0",
+    "xo": "*"
+  }
+}
