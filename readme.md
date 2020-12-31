@@ -1,4 +1,4 @@
-# self-path [![Build Status](https://travis-ci.org/sindresorhus/self-path.svg?branch=master)](https://travis-ci.org/sindresorhus/self-path)
+# self-path
 
 > Get the path to this package - Useful for testing
 
