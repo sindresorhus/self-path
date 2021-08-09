@@ -1,6 +1,6 @@
 {
 	"name": "self-path",
-	"version": "1.0.0",
+	"version": "2.0.0",
 	"description": "Get the path to this package - Useful for testing",
 	"license": "MIT",
 	"repository": "sindresorhus/self-path",
