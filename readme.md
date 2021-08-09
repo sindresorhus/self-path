@@ -16,3 +16,9 @@ $ npm install --global self-path
 $ self-path
 /Users/sindresorhus/n/lib/node_modules/self-path
 ```
+
+## FAQ
+
+### How is it different from `pwd`?
+
+[Read this.](https://github.com/sindresorhus/self-path/issues/1)
