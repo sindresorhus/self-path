@@ -4,13 +4,11 @@
 
 You could spawn this CLI and check the path to assert certain things.
 
-
 ## Install
 
 ```
 $ npm install --global self-path
 ```
-
 
 ## Usage
 
@@ -18,8 +16,3 @@ $ npm install --global self-path
 $ self-path
 /Users/sindresorhus/n/lib/node_modules/self-path
 ```
-
-
-## License
-
-MIT © [Sindre Sorhus](https://sindresorhus.com)

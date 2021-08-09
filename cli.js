@@ -1,3 +1,7 @@
 #!/usr/bin/env node
-'use strict';
+import {fileURLToPath} from 'node:url';
+import path from 'node:path';
+
+const __dirname = path.dirname(fileURLToPath(import.meta.url));
+
 console.log(__dirname);
