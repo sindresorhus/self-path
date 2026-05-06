@@ -6,8 +6,8 @@ You could spawn this CLI and check the path to assert certain things.
 
 ## Install
 
-```
-$ npm install --global self-path
+```sh
+npm install --global self-path
 ```
 
 ## Usage
